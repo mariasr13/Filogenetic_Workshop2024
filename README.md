@@ -21,7 +21,7 @@ Curso dirigido a estudiantes y profesores de posgrado en áreas químico-biológ
 
 ## Inscripción ✏️
 
-Las inscripciones comienzan el jueves 15 de agosto y terminarán el lunes 19 de agosto a las 6pm.
+Las inscripciones comienzan el jueves 15 de agosto y terminarán el lunes 26 de agosto a las 6pm.
 
 Da click en el siguiente link: [Formato de registro](https://forms.gle/NJaPqsHFWH8bLNax7)
 
