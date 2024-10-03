@@ -120,6 +120,8 @@ El curso consta de 8 sesiones teóricas (16 hrs totales) que incluyen revisión 
      + Grabación: [Sesion 7](https://drive.google.com/file/d/172cYnwxmAPVHQ0LXbAvraA9xfQdU_jIK/view?usp=sharing)
      + Material: [Sesion 8](https://drive.google.com/drive/folders/19Cu7xhPNeu2NAUmt5s3fipsxDisiIpfS?usp=drive_link)
      + Presentación: [Sesion 8](https://docs.google.com/presentation/d/1cNHNxAxFyORuj6oEE05yVZ6yBIScclmTsmIzRhcvSV0/edit?usp=drive_link)
+     + GrabacionP1: [sesion8](https://docs.google.com/presentation/d/1cNHNxAxFyORuj6oEE05yVZ6yBIScclmTsmIzRhcvSV0/edit?usp=drive_link)
+     + GrabacionP2:[sesion8](https://drive.google.com/file/d/11rg5UqwY3IQBNS2DmTa4lz-RAuPpKyl2/view?usp=drive_link)
 
 ## Requisitos
 
